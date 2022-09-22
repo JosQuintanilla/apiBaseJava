@@ -1,4 +1,4 @@
-package cl.prueba.pruebaApi;
+package cl.prueba.prueba;
 
 /**
  * Hello world!
